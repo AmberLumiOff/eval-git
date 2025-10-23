@@ -7,6 +7,6 @@ ToDoList :
 		- créer des docs X
 	- indexer les modifs X
 	- commit les modifs X
-- fusionner les branches O(skour)
+- fusionner les branches 1/2
 - modifier les documents de notre collaborateur O
 -renvoie tout et t'as finis O	 
