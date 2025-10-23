@@ -1,12 +1,12 @@
 ToDoList :
 
-- créer un dépot github O
-- cloner le déput en local O
--ajouter de nouvelles branches O
-	- réaliser des modifs sur ces branches O
-		- créer des docs O 
-	- indexer les modifs O
-	- commit les modifs O
-- fusionner les branches O
+- créer un dépot github X
+- cloner le déput en local X
+-ajouter de nouvelles branches X
+	- réaliser des modifs sur ces branches X
+		- créer des docs X
+	- indexer les modifs X
+	- commit les modifs X
+- fusionner les branches O(skour)
 - modifier les documents de notre collaborateur O
 -renvoie tout et t'as finis O	 
