@@ -15,6 +15,11 @@ git commit todolist.txt -m "message" -> commit du fichier
 git add README.md -> indexe le readme 
 git commit README.md -m "message" -> commit du fichier
 git push origin Marylou -> envoie toute la branche sur le github
+git pull origin main
+git merge origin Amber
+nano presentation.txt
+git add presentation.txt
+git commit
 
 JOURNAL DES COMMANDES (amber):
 
@@ -28,3 +33,9 @@ git commit /
 git push origin Amber /
 git checkout main /
 git merge Amber /
+vi todolist.txt /
+git add todolist.txt /
+git commit /
+git merge origin Marylou /
+git merge origin main /
+
